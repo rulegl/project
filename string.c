@@ -23,3 +23,8 @@ int main(void)
 
    return 0;
 }
+
+void func()
+{
+	printf("this is test message");
+}
